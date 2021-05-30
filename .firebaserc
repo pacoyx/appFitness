@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ng-fitness-tracker-1003d": {
+      "hosting": {
+        "mundobebedexter": [
+          "ng-fitness-tracker-1003d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ng-fitness-tracker-1003d"
+  }
+}
